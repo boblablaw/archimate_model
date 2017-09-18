@@ -1,0 +1,96 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Layered View"
+    id="f603bb36-314e-4987-b193-9bbd03895067"
+    viewpoint="layered">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="44b74079-ca30-406a-918a-c34afaed0591"
+      name="External Roles and Actors"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="12"
+        width="877"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="e6ad25f6-d81e-42d6-bdeb-00907c1152b1">
+      <bounds
+          x="12"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_97c65d5e-de42-4929-9a35-8a4ea4544584.xml#97c65d5e-de42-4929-9a35-8a4ea4544584"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="56e71aea-bb11-449b-8350-020434f1bfbb"
+      name="External Business Services"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="168"
+        width="877"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="3d084b03-a24f-48e4-bfd3-d50ee147fc51"
+      name="Business Processes and Internal Actors / Roles"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="324"
+        width="877"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="640059ab-5720-4a3c-9885-aa2070b37c37"
+      name="External Application Services"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="480"
+        width="877"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="57cc81c7-f97c-4c33-80b0-7ecc7e29143c"
+      name="Application Components and Services"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="636"
+        width="877"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="875e29e4-50f5-4104-97be-019bacf17b9a"
+      name="Infrastructure"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="948"
+        width="877"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="4d9f4b60-b2ae-4a8d-9a9e-0b4a4feee487"
+      name="External Infrastructure Services"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="792"
+        width="877"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>

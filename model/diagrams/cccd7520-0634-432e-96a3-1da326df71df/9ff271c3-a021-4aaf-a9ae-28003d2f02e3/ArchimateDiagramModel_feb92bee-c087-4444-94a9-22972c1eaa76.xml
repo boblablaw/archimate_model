@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM (Goldmine) Behavior View"
+    id="feb92bee-c087-4444-94a9-22972c1eaa76">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1bceabd0-7a2d-4dc2-ab2d-c86330ee760f">
+    <bounds
+        x="36"
+        y="24"
+        width="621"
+        height="212"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_481d86f4-6f3a-470e-abd8-3788affeb482.xml#481d86f4-6f3a-470e-abd8-3788affeb482"/>
+  </children>
+</archimate:ArchimateDiagramModel>

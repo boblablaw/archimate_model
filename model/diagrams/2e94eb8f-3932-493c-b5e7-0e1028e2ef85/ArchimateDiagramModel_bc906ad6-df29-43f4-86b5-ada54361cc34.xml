@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Patient Data"
+    id="bc906ad6-df29-43f4-86b5-ada54361cc34"
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8b45383a-55c4-497a-812b-71f48e576f44"
+      targetConnections="b97f982c-38a9-4b97-833a-85b5919da499">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_aed21927-7d39-4d4d-bf44-fc905a2dd77e.xml#aed21927-7d39-4d4d-bf44-fc905a2dd77e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="000c7da2-7f36-4a15-8573-cb1ce6e6fee5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b97f982c-38a9-4b97-833a-85b5919da499"
+        source="000c7da2-7f36-4a15-8573-cb1ce6e6fee5"
+        target="8b45383a-55c4-497a-812b-71f48e576f44">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_ce805c48-8ce7-412d-a7f1-2e8b2661b3ed.xml#ce805c48-8ce7-412d-a7f1-2e8b2661b3ed"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_05c9d8b9-b9d5-4187-89a9-82f3715d664d.xml#05c9d8b9-b9d5-4187-89a9-82f3715d664d"/>
+  </children>
+</archimate:ArchimateDiagramModel>

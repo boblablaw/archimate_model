@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Trainer Territories"
+    id="ef2c041e-4148-4133-a407-89a5576adbf0"
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ee1f17a8-1528-4a28-a1d7-ee14fbe23be5"
+      targetConnections="978fc2ea-f8be-4140-8e40-d6d941290865">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_da586482-b837-4d01-be40-bfc0869d1702.xml#da586482-b837-4d01-be40-bfc0869d1702"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="dcc78edf-27d7-44e4-abf1-48d06fceda29">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="978fc2ea-f8be-4140-8e40-d6d941290865"
+        source="dcc78edf-27d7-44e4-abf1-48d06fceda29"
+        target="ee1f17a8-1528-4a28-a1d7-ee14fbe23be5">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_682edbf5-aa24-40c7-b824-5a421ffa02a4.xml#682edbf5-aa24-40c7-b824-5a421ffa02a4"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_00eb7678-0d8a-4072-81c4-fe7de80dc9bd.xml#00eb7678-0d8a-4072-81c4-fe7de80dc9bd"/>
+  </children>
+</archimate:ArchimateDiagramModel>

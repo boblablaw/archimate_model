@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Maintain Orders"
+    id="31372932-c99c-41e1-8725-1047be7b870f"
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ba219a6e-8959-4f3b-acd0-cc4d71a76c37"
+      targetConnections="5eef696d-34cf-444f-8ea9-4e60d40fb89d">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_8d1d7526-f2a9-4b17-a0c2-755bf8d5a9cd.xml#8d1d7526-f2a9-4b17-a0c2-755bf8d5a9cd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ab50804b-1898-4ea5-8981-ac27382288b9">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="5eef696d-34cf-444f-8ea9-4e60d40fb89d"
+        source="ab50804b-1898-4ea5-8981-ac27382288b9"
+        target="ba219a6e-8959-4f3b-acd0-cc4d71a76c37">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_d0528f2e-48f8-4411-999e-6c6151e5b0c0.xml#d0528f2e-48f8-4411-999e-6c6151e5b0c0"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_123c09ba-3d9f-45b8-93ef-eb1e4ce44c02.xml#123c09ba-3d9f-45b8-93ef-eb1e4ce44c02"/>
+  </children>
+</archimate:ArchimateDiagramModel>
