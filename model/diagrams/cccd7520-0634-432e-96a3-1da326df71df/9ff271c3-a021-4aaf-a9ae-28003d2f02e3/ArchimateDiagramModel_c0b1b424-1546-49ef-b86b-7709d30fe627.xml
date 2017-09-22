@@ -2319,12 +2319,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="fd2bf5b9-8269-4f3f-a580-f65c51164b92"
+        id="8f7a42c6-f3dc-4625-8428-09e545754c37"
         source="6b756cfb-0e38-4d30-9f2f-7c04b98cbe8d"
-        target="7653d370-5c08-4663-9d67-e8f3b9a978fe">
+        target="9d1954e0-6dd0-4821-8f1a-6705242d494a">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_04f0de81-5676-434e-a9cf-be2feef770f2.xml#04f0de81-5676-434e-a9cf-be2feef770f2"/>
+          href="RealizationRelationship_74cc34e9-5c16-4bfe-b705-4af3d0117b1b.xml#74cc34e9-5c16-4bfe-b705-4af3d0117b1b"/>
     </sourceConnections>
     <bounds
         x="12"
@@ -2346,8 +2346,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="7653d370-5c08-4663-9d67-e8f3b9a978fe"
-        targetConnections="fd2bf5b9-8269-4f3f-a580-f65c51164b92">
+        id="9d1954e0-6dd0-4821-8f1a-6705242d494a"
+        targetConnections="8f7a42c6-f3dc-4625-8428-09e545754c37">
       <bounds
           x="192"
           y="24"
@@ -2355,7 +2355,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
-          href="BusinessFunction_25092b03-d8af-40aa-9443-b6965f2c2444.xml#25092b03-d8af-40aa-9443-b6965f2c2444"/>
+          href="BusinessFunction_e8b6f9d0-9ced-4a0f-85d8-68bcb4cc4828.xml#e8b6f9d0-9ced-4a0f-85d8-68bcb4cc4828"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -2736,8 +2736,8 @@
           textAlignment="1"
           content="Submit Order to Integron (Order originated in TIMS)&#xA;">
         <bounds
-            x="48"
-            y="12"
+            x="108"
+            y="36"
             width="185"
             height="80"/>
       </children>
